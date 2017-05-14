@@ -1,2 +1,2 @@
-# fundamental_kernel_opencl
-kernel objects are fundamental in working with OpenCL
+# Fundamental_kernel_opencl
+Kernel Objects are fundamental in working with OpenCL
